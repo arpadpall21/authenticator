@@ -33,6 +33,5 @@ module.exports = {
     ],
     'no-underscore-dangle': ['error', { allowAfterThis: true }],
     'no-console': ['error', { allow: ['error', 'warn', 'info'] }],
-    'react/jsx-filename-extension': 'off',
   },
 }
